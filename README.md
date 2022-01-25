@@ -1,6 +1,6 @@
 <h2>Hi 👋, my name is Guilherme Mantz and I'm a Node.js developer</h2>
 
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/Guilherme-Mantz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Mantz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mantz&layout=compact&langs_count=7&theme=midnight-purple"/>
