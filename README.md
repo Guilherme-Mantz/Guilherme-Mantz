@@ -1,9 +1,7 @@
 ## Hi 👋, my name is Guilherme Mantz and I'm a Node.js developer
-<div align="center">
-  <a href="https://github.com/Guilherme-Mantz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Mantz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="max-width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mantz&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+[![Guilherme Mantz' GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Mantz&show_icons=true&theme=midnight-purple)](https://github.com/Guilherme-Mantz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mantz&layout=compact&theme=midnight-purple)](https://github.com/Guilherme-Mantz)
+
 <div style="display: inline_block">
   <a href="https://github.com/Guilherme-Mantz">
   <img align="center" alt="Node" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
