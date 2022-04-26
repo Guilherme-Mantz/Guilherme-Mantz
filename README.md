@@ -8,6 +8,7 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/Guilherme-Mantz">
+  <img align="center" alt="JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Node" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="MySql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -15,7 +16,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/110733697273138245/8D1FD56B277C5832C2937D1AB0AC56F4ED91274C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <img align="right" alt="Bone-fire" height="150" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/110733697273138245/8D1FD56B277C5832C2937D1AB0AC56F4ED91274C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
   </a>
 </div>
 
