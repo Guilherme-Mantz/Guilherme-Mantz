@@ -6,8 +6,8 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mantz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<div style="display: inline_block; margin-bottom: 5px;">
-  <a href="https://github.com/Guilherme-Mantz">
+<div style="display: inline_block;">
+  <a style="margin-bottom: 5px;" href="https://github.com/Guilherme-Mantz">
   <img align="center" alt="JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Node" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="MySql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
