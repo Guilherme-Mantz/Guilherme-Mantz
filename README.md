@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block;">
-  <a style="margin-bottom: 5px;" href="https://github.com/Guilherme-Mantz">
+  <a href="https://github.com/Guilherme-Mantz">
   <img align="center" alt="JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Node" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="MySql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<div>
+<div style="margin-bottom: 5px;">
   <a href="https://www.linkedin.com/in/guilherme-mantz-bb940420b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
   <a href="https://wa.me/+55019971672128"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 </div>
