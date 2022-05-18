@@ -1,4 +1,4 @@
-## Hi 👋, my name is Guilherme Mantz and I'm a Node.js developer
+## Hi 👋, my name is Guilherme Mantz and I'm developer
 
 <div align="center">
   <a href="https://github.com/Guilherme-Mantz">
